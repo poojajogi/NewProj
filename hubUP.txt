@@ -1,4 +1,4 @@
-…or create a new repository on the command line
+ â€¦or create a new repository on the command line
 
 echo "# first-SFDC" >> README.md
 git init
@@ -7,13 +7,13 @@ git commit -m "first commit"
 git remote add origin https://github.com/poojajogi/first-SFDC.git
 git push -u origin master
 
-…or push an existing repository from the command line
+â€¦or push an existing repository from the command line
 
 git remote add origin https://github.com/poojajogi/first-SFDC.git
 git push -u origin master
 
 
-helllooooo
+helllooooo i have few details with me
 
 
 
