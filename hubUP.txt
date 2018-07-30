@@ -1,0 +1,33 @@
+…or create a new repository on the command line
+
+echo "# first-SFDC" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/poojajogi/first-SFDC.git
+git push -u origin master
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/poojajogi/first-SFDC.git
+git push -u origin master
+
+
+
+git login:
+username: poojajogi2008@outlook.com
+pwd:Aya@0610
+
+salesforce:
+username: pooja.jogi@slk.com
+pwd:Aya@0610
+
+jenkins:
+username: poojajogi
+pwd:jenkins@1
+
+
+
+
+
+
