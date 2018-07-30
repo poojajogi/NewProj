@@ -14,17 +14,6 @@ git push -u origin master
 
 
 
-git login:
-username: poojajogi2008@outlook.com
-pwd:Aya@0610
-
-salesforce:
-username: pooja.jogi@slk.com
-pwd:Aya@0610
-
-jenkins:
-username: poojajogi
-pwd:jenkins@1
 
 
 
