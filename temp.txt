@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 32df934... hi
   i am junk file, i dont have anything important with me [edited] test1.
 =======
 i am junk file, i dont have anything important with me
@@ -7,9 +10,12 @@ i am junk file, i dont have anything important with me
 
 test2
 >>>>>>> test2
+<<<<<<< HEAD
 =======
 
 i am junk file, i dont have anything important with me
 
 
 >>>>>>> 22fdd22a80eecf1810ff92529065e77a9f7a76c0
+=======
+>>>>>>> 32df934... hi
