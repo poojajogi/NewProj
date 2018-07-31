@@ -1,4 +1,2 @@
-i am junk file, i dont have anything important with me.
 
-
->>>>>>> 22fdd22a80eecf1810ff92529065e77a9f7a76c0
+  i am junk file, i dont have anything important with me [edited] test1.
