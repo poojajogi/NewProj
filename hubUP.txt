@@ -1,6 +1,5 @@
 ﻿ …or create a new repository on the command line
-
-hi hello 
+ 
 
 echo "# first-SFDC" >> README.md
 git init
