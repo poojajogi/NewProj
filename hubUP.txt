@@ -1,5 +1,8 @@
 ﻿ …or create a new repository on the command line
+<<<<<<< HEAD
  
+=======
+>>>>>>> parent of 2498ccc... hub file modified with hello msg
 
 echo "# first-SFDC" >> README.md
 git init
