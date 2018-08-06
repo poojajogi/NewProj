@@ -1,6 +1,6 @@
-﻿ …or create a new repository on the command 
- hello pooja
 
+ hello pooja
+or create a new repository on the command line
 echo "# first-SFDC" >> README.md
 git init
 git add README.md
